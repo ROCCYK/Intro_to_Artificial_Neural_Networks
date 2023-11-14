@@ -1,0 +1,5 @@
+export MLFLOW_TRACKING_URI= your uri
+
+export MLFLOW_TRACKING_USERNAME= your username
+
+export MLFLOW_TRACKING_PASSWORD= your password
