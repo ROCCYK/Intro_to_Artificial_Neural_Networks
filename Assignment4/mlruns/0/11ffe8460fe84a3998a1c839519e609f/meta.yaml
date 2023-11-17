@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/xxryk/OneDrive/Documents/Github/ANN_Assignment4/mlruns/0/11ffe8460fe84a3998a1c839519e609f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11ffe8460fe84a3998a1c839519e609f
+run_name: painted-pug-120
+run_uuid: 11ffe8460fe84a3998a1c839519e609f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700176558060
+status: 1
+tags: []
+user_id: xxryk

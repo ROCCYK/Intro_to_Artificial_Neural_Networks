@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/xxryk/OneDrive/Documents/Github/ANN_Assignment4/mlruns/0/9e9c587b541a43cf952a64ef0c441e10/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e9c587b541a43cf952a64ef0c441e10
+run_name: mercurial-worm-283
+run_uuid: 9e9c587b541a43cf952a64ef0c441e10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700176673679
+status: 1
+tags: []
+user_id: xxryk

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/xxryk/OneDrive/Documents/Github/ANN_Assignment4/mlruns/0/5715f8b8d53144d388b06d2a45955e82/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5715f8b8d53144d388b06d2a45955e82
+run_name: upset-wren-89
+run_uuid: 5715f8b8d53144d388b06d2a45955e82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700177662041
+status: 1
+tags: []
+user_id: xxryk

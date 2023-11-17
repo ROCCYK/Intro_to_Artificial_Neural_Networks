@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/xxryk/OneDrive/Documents/Github/ANN_Assignment4/mlruns/0/34d9453e48f9484e933af8e656af5d71/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34d9453e48f9484e933af8e656af5d71
+run_name: rare-cub-829
+run_uuid: 34d9453e48f9484e933af8e656af5d71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700180754018
+status: 1
+tags: []
+user_id: xxryk

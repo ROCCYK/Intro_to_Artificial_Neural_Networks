@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/xxryk/OneDrive/Documents/Github/ANN_Assignment4/mlruns/0/524f1bdcafac4793b99ed69f20cc5cda/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 524f1bdcafac4793b99ed69f20cc5cda
+run_name: classy-ape-53
+run_uuid: 524f1bdcafac4793b99ed69f20cc5cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700179241492
+status: 1
+tags: []
+user_id: xxryk

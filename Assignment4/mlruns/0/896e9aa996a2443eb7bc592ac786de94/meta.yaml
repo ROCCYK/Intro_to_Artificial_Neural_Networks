@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/xxryk/OneDrive/Documents/Github/ANN_Assignment4/mlruns/0/896e9aa996a2443eb7bc592ac786de94/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 896e9aa996a2443eb7bc592ac786de94
+run_name: trusting-wren-485
+run_uuid: 896e9aa996a2443eb7bc592ac786de94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700062390203
+status: 1
+tags: []
+user_id: xxryk
