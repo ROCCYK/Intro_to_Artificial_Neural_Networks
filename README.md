@@ -1,6 +1,6 @@
 # 🧠 Introduction to Artificial Neural Networks
 
-This is a repository for the *Intro to Artificial Neural Networks* course, part of the Honours Bachelor of Artificial Intelligence program at [Durham College]. This repository encompasses assignments, weekly materials, and code examples developed throughout the Spring 2024 semester.
+This is a repository for the *Intro to Artificial Neural Networks* course, part of the Honours Bachelor of Artificial Intelligence program at Durham College. This repository encompasses assignments, weekly materials, and code examples developed throughout the Spring 2024 semester.
 
 ## 📁 Repository Structure
 
