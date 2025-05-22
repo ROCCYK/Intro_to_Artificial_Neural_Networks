@@ -1,1 +1,3 @@
-web: gunicorn FlaskApp:app
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a29c2d1558d4e916639bb7a09d6f10c4a37f740591e45ba047e4b030c2db9eb
+size 28

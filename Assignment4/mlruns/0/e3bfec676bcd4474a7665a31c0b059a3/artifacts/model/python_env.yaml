@@ -1,7 +1,3 @@
-python: 3.9.13
-build_dependencies:
-- pip==23.3.1
-- setuptools==65.5.1
-- wheel==0.38.4
-dependencies:
-- -r requirements.txt
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8b8dd6de85b6dfcfae1881ef839e4d166cff21879b760b107b8c8f9e59dece8
+size 129

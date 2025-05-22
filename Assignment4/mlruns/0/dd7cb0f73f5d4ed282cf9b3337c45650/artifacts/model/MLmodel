@@ -1,12 +1,3 @@
-artifact_path: model
-flavors:
-  sklearn:
-    code: null
-    pickled_model: model.pkl
-    serialization_format: cloudpickle
-    sklearn_version: 1.3.2
-mlflow_version: 2.8.0
-model_size_bytes: 3810
-model_uuid: 1c370dfd45b44b7ca364f02cd160341b
-run_id: dd7cb0f73f5d4ed282cf9b3337c45650
-utc_time_created: '2023-11-15 15:30:59.355334'
+version https://git-lfs.github.com/spec/v1
+oid sha256:db728fbe925bf63f9f4f60c56ddbd290361fa5541377cf494ebd3b66a6bcc3e9
+size 340
